@@ -1,4 +1,5 @@
-site_name: My Site
+site_name: Kannan's Documentation
+site_url: https://kannan7122.github.io/mkdocs-material/
 theme:
   name: material
   features:
